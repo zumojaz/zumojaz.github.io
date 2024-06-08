@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zumojaz.github.io/sitemap/sitemap.txt
